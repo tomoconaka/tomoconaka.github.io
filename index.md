@@ -16,10 +16,10 @@
 
 ### Awards and Funding
 
-_Dec 2021_ &emsp; McGill University Grad Excellence Award in Human Genetics 
+_Dec 2021_ &emsp;&emsp; McGill University Grad Excellence Award in Human Genetics 
 
-_Oct 2020_ &emsp; 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
+_Oct 2020_ &emsp;&emsp; 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
 
-_May 2019_ &emsp; Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
+_May 2019 - Apr 2021_ &emsp; Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
 
-_Apr 2019_ &emsp;	Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
+_Apr 2019 - Mar 2022_ &emsp;	Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
