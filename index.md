@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/tomoconaka/tomoconaka.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education and Professional Training
 
-### Markdown
+**PhD, Kyoto-McGill International Collaborative Program in Genomic Medicine**  _2018-Present_
+**PhD, Kyoto University, Department of Respiratory Medicine**  _2018-Present_
+**PhD, McGill University, Department of Human Genetics**  _2018-Present_
+**Resident, Tenri Hospital, Department of Respiratory Medicine**  _2015-2018_
+**Resident, Tenri Hospital, Department of Internal Medicine**  _2013-2015_
+**MD, Kyoto University, Faculty of Medicine**  _2007-2013_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+
+
+
+### Awards
+
+### Contact
+
+
 
 ```markdown
 Syntax highlighted code block
