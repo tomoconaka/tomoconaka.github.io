@@ -15,13 +15,13 @@
 ### Selected Awards and Funding
 
 * McGill University Grad Excellence Award in Human Genetics 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Dec 2021_ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Dec 2021_ 
 
 * 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Oct 2020_
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Oct 2020_
 
 * Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_May 2019 - Apr 2021_ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_May 2019 - Apr 2021_ 
 
 * Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Apr 2019 - Mar 2022_ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Apr 2019 - Mar 2022_ 
