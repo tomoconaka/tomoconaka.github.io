@@ -4,7 +4,8 @@
 
 ### Selected Publications ([Full list](https://scholar.google.com/citations?hl=ja&user=rWjHHf4AAAAJ))
   
-1.Nakanishi T, ..., Richards JB, Ganna A. Age-dependent impact of the major common genetic risk factor for COVID-19 on severity and mortality. J Clin Invest 2021 [pubmed]()[google scholar]()
+1.**Nakanishi T**, ..., Richards JB, Ganna A. Age-dependent impact of the major common genetic risk factor for COVID-19 on severity and mortality. [_J Clin Invest 2021_](https://pubmed.ncbi.nlm.nih.gov/34597274/)
+
 
 
 
