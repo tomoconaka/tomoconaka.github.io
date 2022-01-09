@@ -12,20 +12,22 @@
 
 5. **Nakanishi T**, ..., Richards JB. The undiagnosed disease burden associated with alpha-1 antitrypsin deficiency genotypes.[_Eur Respir J 2020_](https://erj.ersjournals.com/content/56/6/2001441)
 
-### Awards and Funding
+### Selected Awards and Funding
 
-_Dec 2021_ 
+* McGill University Grad Excellence Award in Human Genetics 
 
-&emsp;McGill University Grad Excellence Award in Human Genetics 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Dec 2021_ 
 
 _Oct 2020_ 
 
-&emsp;20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
+* 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
 
-_May 2019 - Apr 2021_ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Oct 2020_
 
-&emsp; Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
+* Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
 
-_Apr 2019 - Mar 2022_ 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_May 2019 - Apr 2021_ 
 
-&emsp;	Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
+* Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_Apr 2019 - Mar 2022_ 
