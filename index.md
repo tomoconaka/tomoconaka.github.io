@@ -6,9 +6,9 @@
 
 2. **Nakanishi T**, ..., Richards JB. Genetically increased circulating FUT3 level leads to reduced risk of Idiopathic Pulmonary Fibrosis: a Mendelian Randomisation Study. [_Eur Respir J 2021_](https://pubmed.ncbi.nlm.nih.gov/34172473/)
 
-3. Zhou S^(*), Butler-Laporte G^(*), **Nakanishi T^(*)** (co-first author), ..., Richards JB. A Neanderthal OAS1 isoform protects individuals of European ancestry against COVID-19 susceptibility and severity. [_Nat Med 2021_](https://www.nature.com/articles/s41591-021-01281-1)
+3. Zhou S†, Butler-Laporte G†, **Nakanishi T†** (co-first author), ..., Richards JB. A Neanderthal OAS1 isoform protects individuals of European ancestry against COVID-19 susceptibility and severity. [_Nat Med 2021_](https://www.nature.com/articles/s41591-021-01281-1)
 
-4.	Butler-Laporte G^(*), **Nakanishi T^(*)** (co-first author), ..., Richards JB. Vitamin D and COVID-19 susceptibility and severity in the COVID-19 Host Genetics Initiative: A Mendelian randomization study. [_PLOS Med 2021_](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003605)
+4.	Butler-Laporte G†, **Nakanishi T†** (co-first author), ..., Richards JB. Vitamin D and COVID-19 susceptibility and severity in the COVID-19 Host Genetics Initiative: A Mendelian randomization study. [_PLOS Med 2021_](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003605)
 
 5. **Nakanishi T**, ..., Richards JB. The undiagnosed disease burden associated with alpha-1 antitrypsin deficiency genotypes.[_Eur Respir J 2020_](https://erj.ersjournals.com/content/56/6/2001441)
 
