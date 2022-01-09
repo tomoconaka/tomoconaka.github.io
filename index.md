@@ -12,8 +12,6 @@
 
 _Dec 2021_ &emsp; McGill University Grad Excellence Award in Human Genetics 
 
-_Dec 2021_ &emsp; McGill-Kyoto Joint Degree Graduate Award
-
 _Oct 2020_ &emsp; 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
 
 _May 2019_ &emsp; Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
