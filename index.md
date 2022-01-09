@@ -4,8 +4,7 @@
 ## Education and Professional Training
 
 **PhD, [Kyoto-McGill International Collaborative Program in Genomic Medicine](https://www.kyoto-mcgill.org)**
-
-&ebsp;&ebsp;&ebsp;_2018-Present_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2018-Present_
 
 **PhD, [Kyoto University, Department of Respiratory Medicine](http://kukonai.com)**  <div style="text-align: right;">
 _2018-Present_
