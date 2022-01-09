@@ -1,7 +1,7 @@
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme
 
 title: Tomoko Nakanishi
 description: PhD student in Kyoto-McGill International Collaborative Program in Genomic Medicine.
