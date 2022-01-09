@@ -3,10 +3,9 @@
 
 ### Education and Professional Training
 
-**PhD, Kyoto-McGill International Collaborative Program in Genomic Medicine**  <div style="text-align: right;">
-_2018-Present_
-</div>
+**PhD, Kyoto-McGill International Collaborative Program in Genomic Medicine**
 
+&ebsp;&ebsp;&ebsp;_2018-Present_
 
 **PhD, Kyoto University, Department of Respiratory Medicine**  <div style="text-align: right;">
 _2018-Present_
