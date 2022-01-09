@@ -1,32 +1,21 @@
 # About me
 
 
-## Education and Professional Training
-
-**PhD, [Kyoto-McGill International Collaborative Program in Genomic Medicine](https://www.kyoto-mcgill.org)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2018-Present_
-
-**PhD, [Kyoto University, Department of Respiratory Medicine](http://kukonai.com)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2018-Present_
-
-**PhD, McGill University, Department of Human Genetics**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2018-Present_
-
-**Resident, Tenri Hospital, Department of Respiratory Medicine**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2015-2018_
-
-**Resident, Tenri Hospital, Department of Internal Medicine** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2013-2015_
-
-**MD, Kyoto University, Faculty of Medicine** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2007-2013_
 
 ### Selected Publications ([Full list](https://scholar.google.com/citations?hl=ja&user=rWjHHf4AAAAJ))
   
+1. 
 
 
 
+### Awards and Funding
 
-### Awards
+_Dec 2021_ &emsp; McGill University Grad Excellence Award in Human Genetics 
 
-### Contact
+_Dec 2021_ &emsp; McGill-Kyoto Joint Degree Graduate Award
 
+_Oct 2020_ &emsp; 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
 
+_May 2019_ &emsp; Japan Society for the Promotion of Science, Overseas Challenge Program for Young Researchers
 
-[Link](url) and ![Image](src)
-
+_Apr 2019_ &emsp;	Japan Society for the Promotion of Science Research Fellowship for Young Scientists (DC1)
