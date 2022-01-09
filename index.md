@@ -18,8 +18,6 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Dec 2021_ 
 
-_Oct 2020_ 
-
 * 20th Annual McGill Biomedical Graduate Conference Award (First place in Genetics and Gene Expression category)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Oct 2020_
