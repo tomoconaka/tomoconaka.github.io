@@ -3,12 +3,36 @@
 
 ### Education and Professional Training
 
-**PhD, Kyoto-McGill International Collaborative Program in Genomic Medicine**  _2018-Present_
-**PhD, Kyoto University, Department of Respiratory Medicine**  _2018-Present_
-**PhD, McGill University, Department of Human Genetics**  _2018-Present_
-**Resident, Tenri Hospital, Department of Respiratory Medicine**  _2015-2018_
-**Resident, Tenri Hospital, Department of Internal Medicine**  _2013-2015_
-**MD, Kyoto University, Faculty of Medicine**  _2007-2013_
+**PhD, Kyoto-McGill International Collaborative Program in Genomic Medicine**  <div style="text-align: right;">
+_2018-Present_
+</div>
+
+
+**PhD, Kyoto University, Department of Respiratory Medicine**  <div style="text-align: right;">
+_2018-Present_
+</div>
+
+
+**PhD, McGill University, Department of Human Genetics**  <div style="text-align: right;">
+_2018-Present_
+</div>
+
+
+**Resident, Tenri Hospital, Department of Respiratory Medicine**  <div style="text-align: right;">
+_2015-2018_
+</div>
+
+
+**Resident, Tenri Hospital, Department of Internal Medicine**  <div style="text-align: right;">
+_2013-2015_
+</div>
+
+
+**MD, Kyoto University, Faculty of Medicine**  <div style="text-align: right;">
+_2007-2013_
+</div>
+
+
 
 ### Publications
 
