@@ -1,7 +1,7 @@
-## About me
+# About me
 
 
-### Education and Professional Training
+## Education and Professional Training
 
 **PhD, [Kyoto-McGill International Collaborative Program in Genomic Medicine](https://www.kyoto-mcgill.org)**
 
