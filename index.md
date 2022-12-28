@@ -4,7 +4,7 @@
   
 1. **Nakanishi T**, ..., Richards JB, Ganna A. Age-dependent impact of the major common genetic risk factor for COVID-19 on severity and mortality. [_J Clin Invest 2021_](https://www.jci.org/articles/view/152386)
 
-2. **Nakanishi T**, ..., Richards JB. Genetically increased circulating FUT3 level leads to reduced risk of Idiopathic Pulmonary Fibrosis: a Mendelian Randomisation Study. [_Eur Respir J 2021_](https://pubmed.ncbi.nlm.nih.gov/34172473/)
+2. **Nakanishi T**, ..., Richards JB. Genetically increased circulating FUT3 level leads to reduced risk of Idiopathic Pulmonary Fibrosis: a Mendelian Randomisation Study. [_Eur Respir J 2022_](https://pubmed.ncbi.nlm.nih.gov/34172473/)
 
 3. Zhou S†, Butler-Laporte G†, **Nakanishi T†** (co-first author), ..., Richards JB. A Neanderthal OAS1 isoform protects individuals of European ancestry against COVID-19 susceptibility and severity. [_Nat Med 2021_](https://www.nature.com/articles/s41591-021-01281-1)
 
